@@ -89,6 +89,16 @@ members = [
     "voucher-escrow",
     "prize-ledger-v2",
     "tournament-gates",
+    "battle-pass",
+    "wager-limits",
+    "points-exchange",
+    "player-insurance",
+    "weekly-tournament",
+    "live-odds",
+    "game-subscription",
+    "referral-tracker",
+    "cooldown-manager",
+    "nft-staking",
 ]
 
 exclude = [
